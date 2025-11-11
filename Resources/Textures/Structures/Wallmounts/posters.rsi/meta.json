@@ -437,6 +437,21 @@
     },
     {
       "name": "waystationmap"
+    },
+    {
+      "name": "poster1_recruit"
+    },
+    {
+      "name": "poster2_recruit"
+    },
+    {
+      "name": "poster3_recruit"
+    },
+    {
+      "name": "poster4_recruit"
+    },
+    {
+      "name": "poster5_recruit"
     }
   ]
 }
